@@ -19,4 +19,10 @@ public class SeleniumTest {
 		System.out.println("elementsUi");	
 	}
 	
+	@Test
+	public void images()
+	{
+		System.out.println("images");	
+	}
+	
 }
