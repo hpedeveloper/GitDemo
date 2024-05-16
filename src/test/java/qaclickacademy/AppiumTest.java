@@ -14,4 +14,10 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");	
 	}
+	
+	@Test
+	public void WindowsApps()
+	{
+		System.out.println("WindowsApps");	
+	}
 }
